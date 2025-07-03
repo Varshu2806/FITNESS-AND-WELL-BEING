@@ -20,15 +20,15 @@ A full-stack MERN (MongoDB, Express.js, React.js, Node.js) application designed 
 * 📈 Track progress and goal achievements
 * 🔄 Modular frontend and backend components
 
-## 🛠️ Installation & Run Locally
+ 🛠️ Installation & Run Locally
 
-### 1. Clone the Repository
+ 1. Clone the Repository
 
 ```bash
 git clone https://github.com/Varshu2806/FITNESS-AND-WELL-BEING.git
 cd FITNESS-AND-WELL-BEING
 
-### 2. Setup Backend
+ 2. Setup Backend
 
 ```bash
 cd Backend
@@ -37,7 +37,7 @@ npm start
 
 > Make sure MongoDB is running locally or configured via `.env` file.
 
-### 3. Setup Frontend
+ 3. Setup Frontend
 
 ```bash
 cd Frontend
@@ -46,18 +46,18 @@ npm start
 
 > By default, React runs on `http://localhost:3000` and the backend on `http://localhost:5000`.
 
-## ✍️ Author
+✍️ Author
 
 **Varshini Avvari**
 📧 Email: [varshiniavvari09@gmail.com](mailto:varshiniavvari09@gmail.com)
 🔗 GitHub: [Varshu2806](https://github.com/Varshu2806)
 
-## ⭐ Contributions / Feedback
+ ⭐ Contributions / Feedback
 
 Contributions and suggestions are welcome. Feel free to fork the repo, open issues, or submit pull requests.
 
 If you like this project, please consider giving it a ⭐ on GitHub!
 
-## 📌 License
+ 📌 License
 
 This project is open-source and available for educational purposes.
